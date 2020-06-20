@@ -1,6 +1,6 @@
 function double(num)
 {
-  return x*8;
+  return x*3;
 }
 var x = 2;
 double(x);
